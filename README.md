@@ -93,6 +93,7 @@ We recommend using anaconda to manage the python environments.
 
 ```bash
 conda create --name eva3d python=3.8
+conda activate eva3d
 conda install pytorch==1.7.1 torchvision==0.8.2 torchaudio==0.7.2 cudatoolkit=10.1 -c pytorch
 conda install -c fvcore -c iopath -c conda-forge fvcore iopath
 conda install pytorch3d -c pytorch3d
