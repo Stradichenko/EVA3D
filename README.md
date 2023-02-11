@@ -87,6 +87,12 @@ If you find our work useful for your research, please consider citing the paper:
 
 ## Requirements
 
+### Clone repo
+```bash
+git clone https://github.com/hongfz16/EVA3D.git
+cd EVA3D
+```
+
 ### Environments
 
 We recommend using anaconda to manage the python environments.
